@@ -28,7 +28,7 @@ Some Insights:  WoW(Week over Week) change:
                         transactions
                         • TX, NY & CA is contributing to 68%
                         • Overall Activation rate is 57.5%
-                        • Overall Delinquent rate is 6.06%      
+                        • Overall Delinquent rate is 6.06%       
 
 
        
